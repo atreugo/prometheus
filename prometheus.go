@@ -6,7 +6,7 @@ import (
 )
 
 // Register registers the prometheus plugin with the given configuration and server.
-func Register(cfg Config, s *atreugo.Atreugo) {
+func Register(s *atreugo.Atreugo, cfg Config) {
 	if cfg.Method == "" {
 		cfg.Method = defaultMethod
 	}

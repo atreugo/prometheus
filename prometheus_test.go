@@ -10,7 +10,7 @@ import (
 
 func Test_Register(t *testing.T) {
 	s := atreugo.New(atreugo.Config{})
-	Register(Config{}, s)
+	Register(s, Config{})
 
 	req := new(fasthttp.Request)
 	req.SetRequestURI(defaultURL)
