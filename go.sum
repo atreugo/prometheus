@@ -6,8 +6,8 @@ github.com/alecthomas/units v0.0.0-20190717042225-c3de453c63f4/go.mod h1:ybxpYRF
 github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d/go.mod h1:rBZYJk541a8SKzHPHnH3zbiI+7dagKZ0cgpgrD7Fyho=
 github.com/andybalholm/brotli v1.0.2 h1:JKnhI/XQ75uFBTiuzXpzFrUriDPiZjlOSzh6wXogP0E=
 github.com/andybalholm/brotli v1.0.2/go.mod h1:loMXtMfwqflxFJPmdbJO0a3KNoPuLBgiu3qAvBg8x/Y=
-github.com/atreugo/httptest v0.0.0-20211220160948-dfc647a37de8 h1:BNdI5mvMNsJ0kokH94F1CmFQCbU7Z1bBpqTe4L2swyE=
-github.com/atreugo/httptest v0.0.0-20211220160948-dfc647a37de8/go.mod h1:LEjlXFiKON/vgaWvF2NP8ZLOS4iQkKi6VjVTIt+P3oo=
+github.com/atreugo/httptest v0.0.0-20211220162450-611dba6a7b60 h1:oLpG+XygFqxHF9i68KpalbkXCUNyedPPDGLfyy64kZY=
+github.com/atreugo/httptest v0.0.0-20211220162450-611dba6a7b60/go.mod h1:LEjlXFiKON/vgaWvF2NP8ZLOS4iQkKi6VjVTIt+P3oo=
 github.com/atreugo/mock v0.0.0-20200601091009-13c275b330b0 h1:IVqe9WnancrkICl5HqEfGjrnkQ4+VsU5fodcuFVoG/A=
 github.com/atreugo/mock v0.0.0-20200601091009-13c275b330b0/go.mod h1:HTHAc8RoZXMVTr6wZQN7Jjm3mYMnbfkqqKdnQgSoe9o=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
