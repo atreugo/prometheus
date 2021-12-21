@@ -5,7 +5,7 @@ import (
 	"github.com/savsgio/atreugo/v11"
 )
 
-// Register registers the prometheus plugin with the given configuration and server.
+// Register registers the prometheus plugin to the server with the given configuration.
 func Register(s *atreugo.Atreugo, cfg Config) {
 	if cfg.Method == "" {
 		cfg.Method = defaultMethod
