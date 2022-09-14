@@ -10,6 +10,8 @@ Prometheus plugin.
 
 - HTTP endpoint.
 
+**This library requires Go1.17 or later.**
+
 ## Install
 
 ```bash
